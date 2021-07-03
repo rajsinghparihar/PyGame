@@ -18,6 +18,6 @@ The whole process shoeld look like this without any errors:
 <img src="https://github.com/Bawa-dev/PyGame/blob/master/ezgif.com-gif-maker%20(2).gif"/>
 
 # See the game in action
-<p align="center">
+<div align="center">
   [![Space Invaders: PyGame](https://img.youtube.com/vi/xi-AxAlxCAo/0.jpg)](https://www.youtube.com/watch?v=xi-AxAlxCAo)
-</p>
+</div>
