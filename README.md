@@ -14,4 +14,6 @@ once you are in the folder, simply run the command below to run the game
 $ python main.py
 ```
 The whole process shoeld look like this without any errors:
-![Alt Text](https://media.giphy.com/media/LHZQRYVnnnI9awHcex/giphy.gif)
+
+<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="1600" height="900" />
+
