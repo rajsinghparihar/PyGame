@@ -7,7 +7,7 @@
 Start with setting up the local environment for running the game.
 first clone the repo.
 ```BASH
-$ git clone https://github.com/Bawa-dev/PyGame.git
+$ git clone https://github.com/rajsinghparihar/PyGame.git
 $ cd PyGame/Space\ Invaders/
 ```
 once you are in the folder, simply run the command below to run the game
