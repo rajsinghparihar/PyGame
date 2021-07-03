@@ -15,7 +15,7 @@ once you are in the folder, simply run the command below to run the game
 ```BASH
 $ python main.py
 ```
-The whole process shoeld look like this without any errors:
+The whole process should look like this without any errors:
 
 <img src="https://github.com/Bawa-dev/PyGame/blob/master/ezgif.com-gif-maker%20(2).gif"/>
 
