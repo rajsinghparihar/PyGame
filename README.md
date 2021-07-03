@@ -15,5 +15,5 @@ $ python main.py
 ```
 The whole process shoeld look like this without any errors:
 
-<img src="https://media.giphy.com/media/lKK67566RD4um94NQ7/giphy.gif" width="600" height="260" />
+<img src="https://github.com/Bawa-dev/PyGame/blob/master/ezgif.com-gif-maker%20(2).gif"/>
 
