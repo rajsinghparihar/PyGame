@@ -15,5 +15,5 @@ $ python main.py
 ```
 The whole process shoeld look like this without any errors:
 
-<img src="https://media.giphy.com/media/LHZQRYVnnnI9awHcex/giphy.gif" width="800" height="450" />
+<img src="https://media.giphy.com/media/lKK67566RD4um94NQ7/giphy.gif" width="600" height="260" />
 
