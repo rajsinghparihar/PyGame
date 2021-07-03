@@ -19,4 +19,4 @@ The whole process shoeld look like this without any errors:
 
 # See the game in action
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xi-AxAlxCAo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/xi-AxAlxCAo/0.jpg)](https://www.youtube.com/watch?v=xi-AxAlxCAo)
